@@ -106,7 +106,7 @@ ul {
     top: 0;
     left: 0;
     z-index: -1;
-    background-color: rgba(0, 0, 0, 0.4); }
+    background-color: rgba(0, 0, 0, 0.2); }
 
 .bg-img {
   background-position: center center !important;
@@ -369,14 +369,14 @@ input:required {
   z-index: 1;
   margin-bottom: 50px; }
   .section-heading h2 {
-    font-size: 36px;
+    font-size: 30px;
     text-transform: capitalize;
     margin-bottom: 5px;
     display: block;
     line-height: 1.2; }
     @media only screen and (max-width: 767px) {
       .section-heading h2 {
-        font-size: 24px; } }
+        font-size: 20px; } }
   .section-heading p {
     margin-bottom: 0; }
   .section-heading.white p,
@@ -536,7 +536,7 @@ input:required {
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
-        max-width: 90px;
+        max-width: 150px;
         margin-right: 15px; } }
     .classy-nav-container .classy-navbar .classynav ul li a {
       font-size: 16px;
@@ -698,7 +698,7 @@ input:required {
     z-index: 1; }
     .single-welcome-slide .welcome-text h2 {
       font-weight: 700;
-      font-size: 82px;
+      font-size: 72px;
       display: block;
       margin-bottom: 0;
       background: -webkit-linear-gradient(#ff9696, #ffe89e);
@@ -706,7 +706,7 @@ input:required {
       -webkit-text-fill-color: transparent; }
       @media only screen and (max-width: 767px) {
         .single-welcome-slide .welcome-text h2 {
-          font-size: 42px; } }
+          font-size: 36px; } }
     .single-welcome-slide .welcome-text p {
       color: #ffffff;
       margin-bottom: 50px;
